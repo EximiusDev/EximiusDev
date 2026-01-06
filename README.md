@@ -4,6 +4,7 @@
 🎓 Computer Engineering student based in Argentina.
 
 📍 Studying at **Universidad Nacional del Litoral (UNL)** and
+
 💼 currently working as a **Full Stack Developer** under a scholarship program, primarily using **PHP / Symfony**.
 
 ## 🧰 Tech Stack
