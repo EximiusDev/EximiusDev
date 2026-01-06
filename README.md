@@ -17,7 +17,7 @@
 ![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge)
 ![Prolog](https://img.shields.io/badge/Prolog-74283C?style=for-the-badge)
 ![Octave](https://img.shields.io/badge/Octave-0790C0?style=for-the-badge)
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
 
