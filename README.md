@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi  👋
 
 <!--
 **EximiusDev/EximiusDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🎓 Computer Engineering student based in Argentina.
+
+📍 Studying at **Universidad Nacional del Litoral (UNL)** and currently working as a **Full Stack Developer** under a scholarship program, primarily using **PHP and Symfony**.
+
 
 Here are some ideas to get you started:
 
